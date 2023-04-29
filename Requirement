@@ -1,1 +1,17 @@
+Actors : 
+  1) Customer
+  2) Theatre Managment
+  3)System
+ 
+Customer:
+1)Users can have the flexibility to choose the theatre, show time, and seat positions.
+2)Users can able to filter movies based on language, genre, and format and can able to see upcoming movies.
+3)user can rate the movies and express with hashtags and reviws
 
+Theatre Management:
+1)can add/remove movie
+2) able to update movie show time, ticket cost
+3)able to ensure that one seat is allocated for only one audience
+
+System:
+1)_If a user clicks on interested button for an upcoming film, the system will notify the on release day of the movie.
